@@ -25,7 +25,7 @@ Design Smells and Refactoring - [Download](https://karthikv1392.github.io/cs6401
 ## Additional Resources
 
 1. [A catalog of smells and refactoring](https://refactoring.guru/)
-2. [A book on Refactoring for Software Design Smells: Managing Technical Debt](https://www.amazon.in/Refactoring-Software-Design-Smells-Technical/dp/0128013974)
+2. [A book on Refactoring for Software Design Smells: Managing Technical Debt](https://www.amazon.in/Refactoring-Software-Design-Smells-Technical/dp/0128013974 )
 
 
 ## Materials to Listen From
