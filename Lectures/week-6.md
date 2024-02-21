@@ -13,5 +13,5 @@ Factory and Adapter  - [Download](https://karthikv1392.github.io/cs6401_se/slide
 
 ## Resources
 
-1. Design Pattern Implementations - [https://github.com/karthikv1392/DesignPatterns]](https://github.com/karthikv1392/DesignPatterns)
+1. Design Pattern Implementations - [https://github.com/karthikv1392/DesignPatterns](https://github.com/karthikv1392/DesignPatterns)
 
