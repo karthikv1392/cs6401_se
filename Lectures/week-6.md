@@ -10,6 +10,8 @@ nav_order: 6
 
 Factory and Adapter  - [Download](https://karthikv1392.github.io/cs6401_se/slides/L11_Design_Patterns_Set2.pdf)
 
+Strategy and Builder - [Download](https://karthikv1392.github.io/cs6401_se/slides/L12_Design_Patterns_Set2.pdf)
+
 
 ## Resources
 
