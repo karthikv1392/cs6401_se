@@ -6,7 +6,7 @@ parent: Lectures
 nav_order: 6
 ---
 
-## Design Patterns Set 2
+## Design Patterns Set 2 and Set 3
 
 Factory and Adapter  - [Download](https://karthikv1392.github.io/cs6401_se/slides/L11_Design_Patterns_Set2.pdf)
 
