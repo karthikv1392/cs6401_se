@@ -21,7 +21,7 @@ Code Metrics - [Download](https://karthikv1392.github.io/cs6401_se/slides/L08_co
 
 ## Additional resources
 
-1. Conference on Mining Software Repositories - [https://conf.researchr.org/home/msr-2023](https://refactoring.com/catalog/)
+1. Conference on Mining Software Repositories - [https://conf.researchr.org/home/msr-2023](https://conf.researchr.org/home/msr-2023)
 
 2. Catalog of Refactoring - [https://refactoring.com/catalog/](https://refactoring.com/catalog/)
 
