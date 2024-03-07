@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 6 - Design Patterns Next Set
+title: Week 6 - Design Patterns Set 2 and 3
 permalink: /lectures/week-6
 parent: Lectures
 nav_order: 6
