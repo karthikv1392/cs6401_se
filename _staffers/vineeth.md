@@ -2,7 +2,7 @@
 name: Vineeth Bhat
 role: Teaching Assistant
 email: vineeth.bhat@students.iiit.ac.in
-website:
+website: https://flightvin.github.io/
 photo: vineeth.png
 ---
 
