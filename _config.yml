@@ -1,4 +1,6 @@
 # Welcome to Jekyll!
+# Theme colors can be customized in color_scheme: "dark" or "light"
+# You can also create custom theme files in _sass/color_schemes/
 #
 # This config file is meant for settings that affect your whole site, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -73,6 +75,8 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+  # Google Analytics
+  google_analytics: G-SX288MN9YC # Replace with your Google Analytics tracking ID
 
 plugins:
   - jekyll-seo-tag
