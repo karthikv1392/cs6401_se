@@ -29,7 +29,7 @@ This course will provide an overview of the principles and foundations of modern
 
 ## Lecture hours
 
-The lectures will be in-person and will held on every [Tuesday and Friday 2:00 PM to 3:30 PM](schedule.md) in Room no: H-105 (Himalaya Block). The lecture materials (slides, lecture notes if any and links to supporting resources) can be accessed [here](lectures.md).
+The lectures will be in-person and will held on every [Tuesday and Friday 2:00 PM to 3:30 PM](schedule.md) in Room no: SH-2 (Vindhya Block). The lecture materials (slides, lecture notes if any and links to supporting resources) can be accessed [here](lectures.md).
 
 ## Office Hours
 
