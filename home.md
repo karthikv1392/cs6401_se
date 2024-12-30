@@ -18,6 +18,10 @@ description: >-
 
 ---
 
+## Course Policy
+
+Detailed course policy for this course containing details regarding learning methodology, grade distribution, plagiarism policies and other guidelines can be found [here](https://karthikv1392.github.io/cs6401_se/course_policy/)
+
 ## About
 
 This course will provide an overview of the principles and foundations of modern software engineering techniques (primarily design based). Topics include software modelling, refactoring, design patterns and software architecture with a focus on application of these concepts to concrete software problems. Credit where its due, the course structure was designed by [Dr. Raghu Reddy](https://faculty.iiit.ac.in/~raghu.reddy/Home.html).
