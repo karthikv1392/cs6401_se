@@ -23,8 +23,6 @@ Feb 21
 
 Feb 24
 : [Project 1 Presentations](#)
-{: .label .label-blue}
-
 
 Mar 4
 : [Design Patterns: Set 3](#)
