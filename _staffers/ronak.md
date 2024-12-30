@@ -6,4 +6,4 @@ website:
 photo: ronak.png
 ---
 
-Software Engieering TA
+Software Engineering TA
