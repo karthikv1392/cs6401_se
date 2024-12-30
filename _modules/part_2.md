@@ -1,5 +1,5 @@
 ---
-title: Code Refactoring and Design Patterns
+title: Refactoring and Design Patterns
 ---
 
 Jan 28
