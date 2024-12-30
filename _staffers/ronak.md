@@ -3,7 +3,7 @@ name: Ronak Dhingra
 role: Teaching Assistant
 email: ronak.dhingra@students.iiit.ac.in
 website:
-photo: ronak.jpg
+photo: ronak.png
 ---
 
 Software Engieering TA
