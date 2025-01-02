@@ -32,7 +32,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Karthik Vaidhyanathann:
+  Karthik Vaidhyanathan:
     - 'https://karthikvaidhyanathan.com'
   Moodle:
     - 'https://courses.iiit.ac.in'
