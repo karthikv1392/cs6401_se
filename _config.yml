@@ -22,6 +22,7 @@ author: Karthik Vaidhyanathan
 baseurl: # the subpath of your site, e.g. /blog
 url: 'https://karthikv1392.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+logo: "/assets/images/CS6401.png"
 favicon_ico: '/assets/images/CS6401.png'
 favitype: 'image/png'
 
