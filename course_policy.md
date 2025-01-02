@@ -23,7 +23,7 @@ Students are free to use different AI tools like ChatGPT, Co-pilot, etc. or AI c
 
 ## Extra Days and Soft Deadlines
 
-  1. Each team will have 5 extra days (in total) which they can use at their discretion throughout the course. Extra days will allow the student to submit projects post the deadline without incurring any penalty. Please note extra days can only be used for projects.
+  1. Each team will have *7 extra days (in total)* which they can use at their discretion throughout the course. Extra days will allow the student to submit projects post the deadline without incurring any penalty. Please note extra days can only be used for projects.
 
   2. Every project will have a soft deadline followed by a hard deadline after 7 days. If the student submits an assignment/project after the soft deadline, he/she will be penalized for every additional day until the hard deadline (if they have exhausted their extra days quota). For example, lets assume that the soft deadline is Feb 3 2024. This implies that the hard deadline will be Feb 10, 2024. The student in this case will be allowed to submit until Feb 10 2024. Assuming that the student has his/her full quota of extra days, they can delay submissions until Feb 8 2024 after which the submission will be penalized for each additional day.
 
@@ -38,6 +38,15 @@ Students are free to use different AI tools like ChatGPT, Co-pilot, etc. or AI c
 
 ## Grade distribution
 
-TBA
+| Component                 | Weightage |
+| ------------------------- | --------- |
+| Final Exam                | 25%       |
+| Mid-term Exam             | 15%       |
+| Take home/In-class activities                  | 15%        |
+| Mini projects (3*15)             | 45%        |
+| Bonus           | 5%       |
+
+Please also note that any bonus points during the project will be added to the project total. A student can get a maximum of 5% bonus points across all the projects. The seperate bonus component listed for 5% (if attempted and successful) will be added to the course total.
+
 
 *Note:* The course instructor reserves the right to make minor modifications to the above distribution based on the progress of the course.

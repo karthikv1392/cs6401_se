@@ -3,13 +3,13 @@ title: Software Architecture
 ---
 
 Mar 11
-**Project 3 Proposal Deadline**{: .label .label-red}
+: **Project 3 Proposal Deadline**{: .label .label-red}
 
 Mar 15
-**Project 2 Deadline**{: .label .label-red}
+: **Project 2 Deadline**{: .label .label-red}
 
 Mar 17
-**Project 3 Release**{: .label .label-blue}
+: **Project 3 Release**{: .label .label-blue}
 
 Mar 18
 : [Introduction to Software Architecture](#)
