@@ -12,7 +12,7 @@ Jan 10
 : [Modeling with UML: Modeling the Structure](#)
 
 Jan 11
-: **Tutorial 1: Basic Java and UML**{: .label .label-green }
+: **Tutorial 1: Basic Java and UML**{: .label .label-green } **Project 1 Release**{: .label .label-blue }
 
 Jan 17
 : [Modeling with UML: Modeling the Behaviour](#)

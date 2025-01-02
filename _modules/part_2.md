@@ -12,8 +12,10 @@ Feb 7
 : [Code Complexity Metrics](#)
 
 Feb 11
-: [Introduction to Software Design Principles](#)
+: [Introduction to Software Design Principles](#) **Project 1 Deadline**{: .label .label-red }
 
+Feb 12
+**Project 2 Release**{: .label .label-blue}
 
 Feb 18
 : [Introduction to Design Patterns: Set 1](#)
