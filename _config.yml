@@ -27,7 +27,7 @@ favitype: 'image/png'
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-color_scheme: try
+color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
@@ -75,6 +75,8 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+  # Google Analytics
+  google_analytics: G-SX288MN9YC # Replace with your Google Analytics tracking ID
 
 plugins:
   - jekyll-seo-tag
