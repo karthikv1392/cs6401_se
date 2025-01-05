@@ -75,8 +75,6 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-  # Google Analytics
-  google_analytics: G-SX288MN9YC # Replace with your Google Analytics tracking ID
 
 plugins:
   - jekyll-seo-tag
