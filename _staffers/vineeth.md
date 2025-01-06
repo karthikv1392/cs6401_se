@@ -6,4 +6,4 @@ website: https://flightvin.github.io/
 photo: vineeth.png
 ---
 
-Software Engineering TA
+TA Hours: 13:30 to 14:30 on Mondays
