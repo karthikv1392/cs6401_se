@@ -22,6 +22,8 @@ Introduction and Course Overview - [Download](https://karthikv1392.github.io/cs6
 
 4. Green Software Foundation - [https://greensoftware.foundation](https://greensoftware.foundation)
 
+5. Article from BBC on IT failures in NHS - [https://www.bbc.com/news/health-67503126](https://www.bbc.com/news/health-67503126)
+
 ### AI-assisted tools and benchmarks
 
 1. Github Co-Pilot - [https://github.com/features/copilot](https://github.com/features/copilot)
