@@ -10,6 +10,10 @@ nav_order: 1
 
 Introduction and Course Overview - [Download](https://karthikv1392.github.io/cs6401_se/slides/L01_Course_Overview.pdf)
 
+## Introduction to Modeling
+
+Introduction and Course Overview - [Download](https://karthikv1392.github.io/cs6401_se/slides/L02_Intro_Modeling.pdf)
+
 
 ## Additional Reading
 
