@@ -140,7 +140,7 @@ Try to have at least 2 files included in context to address design smells and no
 Now that you've made the automated refactoring pipeline, let's do some evaluations. Use at least 2 different LLMs to compare the design smell identification capability and refactoring capabilities. Use at least 2 design smells to compare the results. Do they identify the same smells you have? Do they suggest the same refactoring? Are some models good at identifying smells but bad at refactoring and vice-versa? This task is open ended, feel free to do as much as you want, but the minimum requirement is to compare the performance of 2 LLMs for 2 design smells.  
 
 
-_Note: This bonus will only recoup marks lost in this project. It will not add to your course total, i.e. your project 1 marks will be max(100, project marks + bonus)._
+_Note: This bonus will only recoup marks lost in this project. It will not add to your course total, i.e. your project 1 marks will be min(100, project marks + bonus)._
 
 
 
