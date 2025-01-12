@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutorial 1 - Java, UML, OOPs
-permalink: /projects/tutorial-1
+permalink: /tutorials/tutorial-1
 parent: Tutorials
 nav_order: 1
 ---
