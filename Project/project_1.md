@@ -148,13 +148,13 @@ _Note: This bonus will only recoup marks lost in this project. It will not add t
 
 The submission for this phase will be through the GitHub classroom. The codebase will be automatically downloaded at the deadline, so ensure that everything is up in time. No exceptions will be granted.
 
-In addition to the code changes required, you also need to submit a report containing your responses for each task. The report should be present in the docs directory, titled project1_&lt;team_number>.pdf. If you are attempting the bonus, submit a separate document titled project1_bonus_&lt;team_number>.pdf containing the corresponding responses. Add these reports and other documents in the `docs/` folder of your repository.
+In addition to the code changes required, you also need to submit a report containing your responses for each task. The report should be present in the docs directory, titled project1\_&lt;team_number>.pdf. If you are attempting the bonus, submit a separate document titled project1\_bonus_&lt;team_number>.pdf containing the corresponding responses. Add these reports and other documents in the `docs/` folder of your repository.
 
 Accurately report the contribution of each team member at the end of the report. This will be considered when evaluating the project.
 
-Soft deadline - 11th February, 2025
+Soft deadline - 11th February, 2025 11:59PM IST
 
-Hard deadline - 18th February, 2025
+Hard deadline - 18th February, 2025 11:59PM IST
 
 **_Note: Bonus can be submitted till the hard deadline without any penalty. Late days are not applicable for bonus components_**
 
