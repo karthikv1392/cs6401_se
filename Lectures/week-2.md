@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Week 1 - Introduction and Modeling
-permalink: /lectures/week-1
+title: Week 2 - Class Diagrams
+permalink: /lectures/week-2
 parent: Lectures
 nav_order: 1
 ---
