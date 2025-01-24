@@ -12,7 +12,7 @@ nav_order: 2
 
 ### Slides
 
-Can be found [here](https://karthikv1392.github.io/cs6401_se/tutorials/slides/tutorial_2.pdf).
+Can be found [here](https://karthikv1392.github.io/cs6401_se/slides/Tutorial_2.pdf).
 
 ### Resources
 
