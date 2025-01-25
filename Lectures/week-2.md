@@ -3,7 +3,7 @@ layout: page
 title: Week 2 - Class Diagrams
 permalink: /lectures/week-2
 parent: Lectures
-nav_order: 1
+nav_order: 2
 ---
 
 ## Class Diagrams
