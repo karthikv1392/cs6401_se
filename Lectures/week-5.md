@@ -6,6 +6,6 @@ parent: Lectures
 nav_order: 5
 ---
 
-## Code Smells 
+## Code Metrics 
 
-Introduction to Code Smells - [Download](https://karthikv1392.github.io/cs6401_se/slides/L08_code_metrics.pdf)
+Introduction to Code Metrics - [Download](https://karthikv1392.github.io/cs6401_se/slides/L08_code_metrics.pdf)
