@@ -104,7 +104,7 @@ _Note: This bonus will only recoup marks lost in this project. It will not add t
 - The submission for this phase will again be through the GitHub classroom. The codebase will be automatically downloaded at the deadline, so ensure that everything is up in time. No exceptions will be granted.
 - You need to submit a report containing the details of implementation,
 including the design patterns used, the rationale behind using the pattern and any changes made to existing code. The report should be present in the `docs/` directory, titled `project2_<team_number>.pdf`. 
-- If you are attempting the bonus, please make a separate branch forsubmit a separate document titled `project2_bonus_<team_number>.pdf` in the `docs/` directory. Please make 
+- If you are attempting the bonus, please make a separate branch forsubmit a separate document titled `project2_bonus_<team_number>.pdf` in the `docs/` directory.
 - Report the contribution of each team member at the end of the report. This will be considered when evaluating the project.
 
 Soft deadline - 15th March, 2025 11:59PM IST
