@@ -9,3 +9,7 @@ nav_order: 4
 ## Code Smells 
 
 Introduction to Code Smells - [Download](https://karthikv1392.github.io/cs6401_se/slides/L07_code_smells.pdf)
+
+## Code Metrics 
+
+Introduction to Code Metrics - [Download](https://karthikv1392.github.io/cs6401_se/slides/L08_code_metrics.pdf)

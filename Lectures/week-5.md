@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Week 5 - Code Metrics
+title: Week 5 - Design Principles
 permalink: /lectures/week-5
 parent: Lectures
 nav_order: 5
 ---
 
-## Code Metrics 
+## Design Principles and Design Patterns
 
-Introduction to Code Metrics - [Download](https://karthikv1392.github.io/cs6401_se/slides/L08_code_metrics.pdf)
+Introduction to Design Principles - [Download](https://karthikv1392.github.io/cs6401_se/slides/L09_Intro_to_Design_Patterns.pdf)
