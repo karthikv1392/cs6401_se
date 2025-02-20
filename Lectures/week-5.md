@@ -10,4 +10,6 @@ nav_order: 5
 
 Introduction to Design Principles - [Download](https://karthikv1392.github.io/cs6401_se/slides/L09_Intro_to_Design_Patterns.pdf)
 
+## Design Patterns - Set 1
 
+Observer Pattern and Factory Pattern - [Download](https://karthikv1392.github.io/cs6401_se/slides/L10_Design_Patterns_Set1.pdf)
