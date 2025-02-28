@@ -10,3 +10,5 @@ nav_order: 6
 
 Adapter and Strategy Pattern - [Download](https://karthikv1392.github.io/cs6401_se/slides/L11_Design_Patterns_Set2.pdf)
 
+## Additional materials
+Implementations - [https://github.com/karthikv1392/DesignPatterns](https://github.com/karthikv1392/DesignPatterns)
