@@ -19,6 +19,8 @@ This phase focuses on effective design practices to ensure modularity, maintaina
 
 *Note: When using Large Language Models (LLMs) or other AI assistants like ChatGPT, Claude, etc., in completing this assignment, kindly include screenshots delineating the specific prompts employed and the corresponding generated responses. Additionally, provide an evaluation of the accuracy of these responses, highlighting instances of correctness or errors.*
 
+*Reminder: As mentioned in the class as well as the tutorial - you must build upon the refactored codebase that you had submitted for Project 1.*
+
 ### Github Classroom
 You will be continuing to work on the same repository that you used in the first project. Please make a new branch for this project named `project2_<team_id>`. Only this new branch will be considered for evaluation.
 
