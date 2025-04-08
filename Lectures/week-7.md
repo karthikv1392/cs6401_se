@@ -8,9 +8,11 @@ nav_order: 7
 
 ## Introduction to Software Architecture
 
-Introduction to Software Architecture- [Download](https://karthikv1392.github.io/cs6401_se/slides/L13_Intro_to_Software_Architecture.pdf)
+Introduction to Software Architecture - [Download](https://karthikv1392.github.io/cs6401_se/slides/L13_Intro_to_Software_Architecture.pdf)
 
+## Architecture Tactics 
 
+Architectural Tactics - [Download](https://karthikv1392.github.io/cs6401_se/slides/L15_16_Architectural_Tactics.pdf)
 
 ## Additional Materials/References
 
