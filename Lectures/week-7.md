@@ -14,6 +14,11 @@ Introduction to Software Architecture - [Download](https://karthikv1392.github.i
 
 Architectural Tactics - [Download](https://karthikv1392.github.io/cs6401_se/slides/L15_16_Architectural_Tactics.pdf)
 
+
+## Architecture Design Decisions
+
+Design Decisions - [Download](https://karthikv1392.github.io/cs6401_se/slides/ADR_lecture.pdf)
+
 ## Additional Materials/References
 
 ### Software Architecture
