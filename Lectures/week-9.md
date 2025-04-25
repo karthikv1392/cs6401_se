@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 9 - Microservices and EDA
+title: Week 9 - EDA and Conclusion
 permalink: /lectures/week-9
 parent: Lectures
 nav_order: 9
@@ -9,6 +9,10 @@ nav_order: 9
 ## Architectural Styles and Patterns
 
 Microservices and EDA - [Download](https://karthikv1392.github.io/cs6401_se/slides/L19_Microservices_EDA.pdf)
+
+## What Next and Some Potential Research Topics
+
+Concluding Thoughts - [Download](https://karthikv1392.github.io/cs6401_se/slides/L20_Concluding_Thoughts.pdf)
 
 
 ## Additional Materials/References
