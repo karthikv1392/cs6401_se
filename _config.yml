@@ -1,0 +1,82 @@
+# Welcome to Jekyll!
+# Theme colors can be customized in color_scheme: "dark" or "light"
+# You can also create custom theme files in _sass/color_schemes/
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Software Engineering
+tagline: Course website of CS6.401 Software engineering
+description: This is the website of the course offered by software engineering research center, IIIT Hyderabad.
+author: Karthik Vaidhyanathan
+baseurl: # the subpath of your site, e.g. /blog
+url: 'https://karthikv1392.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+favicon_ico: '/assets/images/CS6401.png'
+favitype: 'image/png'
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links:
+  Karthik Vaidhyanathan:
+    - 'https://karthikvaidhyanathan.com'
+  Moodle:
+    - 'https://courses.iiit.ac.in'
+footer_content: Copyright &copy; 2025 Karthik Vaidhyanathan. Distributed by an <a href="https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt">MIT license.</a>
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # Google Analytics
+  google_analytics: G-SX288MN9YC # Replace with your Google Analytics tracking ID
+
+plugins:
+  - jekyll-seo-tag
