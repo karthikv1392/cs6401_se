@@ -1,0 +1,13 @@
+// Custom Blue Color Scheme
+
+// Define the blue color
+$blue-custom: #2563EB; // Royal Blue
+
+// Override theme variables
+$brand-color: $blue-custom;
+$link-color: $blue-custom;
+$btn-primary-bg: $blue-custom;
+$btn-primary-border: $blue-custom;
+
+// Navigation
+$nav-child-link-color: $blue-custom;

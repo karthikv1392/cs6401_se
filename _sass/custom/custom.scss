@@ -8,6 +8,12 @@
 @import 'staffer';
 
 // Overrides
+
+// Font families
+$body-font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$heading-font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$code-font-family: "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace !default;
+
 code {
   font-size: 14px;
   padding: 0.2em 0.4em;
@@ -51,7 +57,7 @@ summary {
   dd {
     font-weight: normal;
 
-    + dt {
+    +dt {
       margin-top: 1em;
     }
   }

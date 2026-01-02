@@ -2,25 +2,25 @@
 title: Introduction to Modeling and Refactoring
 ---
 
-Jan 3
+Jan 2
 : [Introduction and Course Overview](#)
 
-Jan 3
+Jan 6
 : [Introduction to Software Modeling](#)
 
-Jan 10
+Jan 9
 : [Modeling with UML: Modeling the Structure](#)
 
-Jan 11
+Jan 13
 : **Tutorial 1: Basic Java and UML**{: .label .label-green } **Project 1 Release**{: .label .label-blue }
 
-Jan 17
+Jan 16
 : [Modeling with UML: Modeling the Behaviour](#)
 
-Jan 21
+Jan 20
 : [Refactoring: Gentle Introduction](#)
 
-Jan 24
+Jan 23
 : [Design Smells and Refactoring](#)
 
 

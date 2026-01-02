@@ -27,7 +27,7 @@ favitype: 'image/png'
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-color_scheme: light
+color_scheme: custom_blue
 search_enabled: true
 heading_anchors: true
 permalink: pretty

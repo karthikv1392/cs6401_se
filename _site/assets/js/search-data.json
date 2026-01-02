@@ -1,0 +1,248 @@
+{"0": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "/announcements/",
+    "relUrl": "/announcements/"
+  },"1": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "/announcements/",
+    "relUrl": "/announcements/"
+  },"2": {
+    "doc": "Announcements",
+    "title": "Welcome to CS6.401 SE",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "/announcements/",
+    "relUrl": "/announcements/"
+  },"3": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "/calendar/",
+    "relUrl": "/calendar/"
+  },"4": {
+    "doc": "Calendar",
+    "title": "Introduction to Modeling and Refactoring",
+    "content": "Jan 2 Introduction and Course Overview Jan 6 Introduction to Software Modeling Jan 9 Modeling with UML: Modeling the Structure Jan 13 Tutorial 1: Basic Java and UML Project 1 Release Jan 16 Modeling with UML: Modeling the Behaviour Jan 20 Refactoring: Gentle Introduction Jan 23 Design Smells and Refactoring ",
+    "url": "/calendar/#introduction-to-modeling-and-refactoring",
+    "relUrl": "/calendar/#introduction-to-modeling-and-refactoring"
+  },"5": {
+    "doc": "Calendar",
+    "title": "Refactoring and Design Patterns",
+    "content": "Feb 3 Introduction to Code Smells Feb 6 Measuring Code Complexity Feb 10 Code Complexity Metrics Feb 17 Introduction to Software Design Principles Project 1 Deadline Feb 20 Project 2 Release Feb 20 Introduction to Design Patterns: Set 1 Feb 24 Design Patterns: Set 2 Feb 24 Project 1 Presentations Mar 4 Design Patterns: Set 3 Mar 7 Thoughs on Design Patterns Mar 11 Guest Lecture ",
+    "url": "/calendar/#refactoring-and-design-patterns",
+    "relUrl": "/calendar/#refactoring-and-design-patterns"
+  },"6": {
+    "doc": "Calendar",
+    "title": "Software Architecture",
+    "content": "Mar 11 Project 3 Proposal Deadline Mar 15 Project 2 Deadline Mar 17 Project 3 Release Mar 18 Introduction to Software Architecture Mar 21 Views and Viewpoints Mar 25 Guest Lecture Mar 28 ADLs and Architecture Analysis Apr 1 Software Architecture Design Decisions Apr 8 Playing the DecidArch Game Apr 11 Software Architecture Patterns Apr 15 Deeper dive into Microservices Apr 17 Publish Subscribe and Event-Driven Project 3 Deadline Apr 22 Final thoughts and Conclusions ",
+    "url": "/calendar/#software-architecture",
+    "relUrl": "/calendar/#software-architecture"
+  },"7": {
+    "doc": "Course Policy",
+    "title": "Course Policy",
+    "content": "The detailed policy of the course along with the mark distribution is listed here . ",
+    "url": "/course_policy/",
+    "relUrl": "/course_policy/"
+  },"8": {
+    "doc": "Course Policy",
+    "title": "Teaching and Learning Methodology",
+    "content": "This course is designed in such a manner to help learners get the essence of principles behind good software deign. To this end, the course will follow a problem based learning methodology. Learners will be taught concepts by making them work on real-life problems. This will promote deeper engagement, deeper understanding and resembles the true career situation. ",
+    "url": "/course_policy/#teaching-and-learning-methodology",
+    "relUrl": "/course_policy/#teaching-and-learning-methodology"
+  },"9": {
+    "doc": "Course Policy",
+    "title": "Zero Tolerance on Plagiarism",
+    "content": "This course requires student to submit assignments, participate in in-class activities, give mid and final exams, work with groups on projects and so on. Any forms of cheating or plagiarism will result in a score of “0” for projects, assignments or exams. Egregious cases will result in a grade of “F” for the course. ",
+    "url": "/course_policy/#zero-tolerance-on-plagiarism",
+    "relUrl": "/course_policy/#zero-tolerance-on-plagiarism"
+  },"10": {
+    "doc": "Course Policy",
+    "title": "Use of AI tools",
+    "content": "Students are free to use different AI tools like ChatGPT, Co-pilot, etc. or AI code editors like Cursor or Codium for the course assignments/projects. In fact every project mostly will require the use of LLMs. However, please do mention what tools and how they have been used in the submission report. Remember the different demos given in the class on how sometimes these tools can mislead or provide wrong solutions. Its important to know the concept before using the tools. Tools are at the end-of-the day enablers. Today it will be ChatGPT/Co-Pilot tomorrow it will be something else but the concepts needs to be clear to leverage the different tools. Bottomline, feel free to use different tools but use them wisely! . ",
+    "url": "/course_policy/#use-of-ai-tools",
+    "relUrl": "/course_policy/#use-of-ai-tools"
+  },"11": {
+    "doc": "Course Policy",
+    "title": "Extra Days and Soft Deadlines",
+    "content": ". | Each team will have 7 extra days (in total) which they can use at their discretion throughout the course. Extra days will allow the student to submit projects post the deadline without incurring any penalty. Please note extra days can only be used for projects. | Every project will have a soft deadline followed by a hard deadline after 7 days. If the student submits an assignment/project after the soft deadline, he/she will be penalized for every additional day until the hard deadline (if they have exhausted their extra days quota). For example, lets assume that the soft deadline is Feb 3 2025. This implies that the hard deadline will be Feb 10, 2025. The student in this case will be allowed to submit until Feb 10 2025. Assuming that the student has his/her full quota of extra days, they can delay submissions until Feb 10 2025 after which no submission will be allowed since Feb 10 is also the hard deadline. If the student has fewer late days, say until Feb 5 2025, then the submission will be penalized for each additional day after Feb 5. | No submissions will be entertained post the hard deadline. | . ",
+    "url": "/course_policy/#extra-days-and-soft-deadlines",
+    "relUrl": "/course_policy/#extra-days-and-soft-deadlines"
+  },"12": {
+    "doc": "Course Policy",
+    "title": "Grading policy",
+    "content": ". | The students can request a re-evaluation of the grade until a week after the particular grade has been posted. After that the student may not discuss prior grades with the instructor. | There will be no make up quiz/activity/exam under any circumstances unless a prior permission is granted. | In case if a student is not able to submit an assignment/project on time, he/she can make use of extra days and soft deadline facility as explained above. No submissions will be entertained post the hard deadline. No e-mails from students regarding assignments extensions will be entertained. | Although project grades are assigned for the entire team, each individual may be given a higher or lower grade (up to 50%) based on his/her contribution. Individual contribution for each project/assignment will be measured through multiple mechanisms. | . ",
+    "url": "/course_policy/#grading-policy",
+    "relUrl": "/course_policy/#grading-policy"
+  },"13": {
+    "doc": "Course Policy",
+    "title": "Grade distribution",
+    "content": "| Component | Weightage | . | Final Exam | 25% | . | Mid-term Exam | 15% | . | Take home/In-class activities | 15% | . | Mini projects (3*15) | 45% | . | Bonus | 5% | . Please also note that any bonus points during the project will be added to the project total. A student can get a maximum of 5% bonus points across all the projects. The seperate bonus component listed for 5% (if attempted and successful) will be added to the course total. Note: The course instructor reserves the right to make minor modifications to the above distribution based on the progress of the course. ",
+    "url": "/course_policy/#grade-distribution",
+    "relUrl": "/course_policy/#grade-distribution"
+  },"14": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/home/",
+    "relUrl": "/home/"
+  },"15": {
+    "doc": "Home",
+    "title": "Table of contents",
+    "content": ". | Course Policy | About | Lecture hours | Office Hours | Resources . | Useful textbooks: | Useful tools: | . | Assignments and Projects | . ",
+    "url": "/home/#table-of-contents",
+    "relUrl": "/home/#table-of-contents"
+  },"16": {
+    "doc": "Home",
+    "title": "Course Policy",
+    "content": "Detailed course policy for this course containing details regarding learning methodology, grade distribution, plagiarism policies and other guidelines can be found here . ",
+    "url": "/home/#course-policy",
+    "relUrl": "/home/#course-policy"
+  },"17": {
+    "doc": "Home",
+    "title": "About",
+    "content": "This course will provide an overview of the principles and foundations of modern software engineering techniques (primarily design based). Topics include software modelling, refactoring, design patterns and software architecture with a focus on application of these concepts to concrete software problems. Credit where its due, the course structure was initially designed by Dr. Raghu Reddy. ",
+    "url": "/home/#about",
+    "relUrl": "/home/#about"
+  },"18": {
+    "doc": "Home",
+    "title": "Lecture hours",
+    "content": "The lectures will be in-person and will held on every Tuesday and Friday 5:00 PM to 6: 30 PM in Room no: . The lecture materials (slides, lecture notes if any and links to supporting resources) can be accessed here. ",
+    "url": "/home/#lecture-hours",
+    "relUrl": "/home/#lecture-hours"
+  },"19": {
+    "doc": "Home",
+    "title": "Office Hours",
+    "content": "Every Friday 12:00 PM to 1:00 PM. Apart from this if more meetings or help is required, feel free to drop in an email to one of the teaching assistants . ",
+    "url": "/home/#office-hours",
+    "relUrl": "/home/#office-hours"
+  },"20": {
+    "doc": "Home",
+    "title": "Resources",
+    "content": "Useful textbooks: . | UML@classroom: An Introduction to Object-Oriented Modeling by Martina Seidl, Marion Scholz, Christian Huemer and Gerti Kappel | M. Fowler. Refactoring: Improving the design of existing Code, 2000. Addison Wesley. ISBN 0-201-48567-2. | Design Patterns Elements of Reusable Object Oriented Software by Enrich Gamma, Richard Helm, Ralph Johnson and John Vlissides | Software Architecture in Practice (Third/Fourth edition) by Len Bass, Paul Clements and Rick Kazman, Addison-Wesley. | . Useful tools: . | UML - There are plenty of UML tools available such as StarUML, MagicDraw, etc. As far as this course is concerned it would be more than enough to use an open source UML tools such as: Eclipse Papyrus UML or Gaphor. If you prefer text based modelling then PlantUML can be an excellent choice. Please don’t make use of any normal diagramming tools for this course. | Java/Python IDE - This course will involve development in Java/Python. There are many IDEs for Java/Python available. We suggest to either use Eclipse or Intellij IDEA Community edition for Java and Intellij PyCharm or Visual Studio Code for Python. | . ",
+    "url": "/home/#resources",
+    "relUrl": "/home/#resources"
+  },"21": {
+    "doc": "Home",
+    "title": "Assignments and Projects",
+    "content": "All the assignments, their grading policy will be posted here. ",
+    "url": "/home/#assignments-and-projects",
+    "relUrl": "/home/#assignments-and-projects"
+  },"22": {
+    "doc": "CS6.401 Software Engineering",
+    "title": "Software Engineering",
+    "content": "Welcome to the course website of CS6.401 Software Engineering Spring 2026. The details of syllabus, course plan, examinations can be found in the home page. Further details regarding the course can be found below: . | a course calendar with materials, | a staff page, | and a weekly schedule. | List of lectures with additional content | . ",
+    "url": "/index.html#software-engineering",
+    "relUrl": "/index.html#software-engineering"
+  },"23": {
+    "doc": "CS6.401 Software Engineering",
+    "title": "CS6.401 Software Engineering",
+    "content": " ",
+    "url": "/index.html",
+    "relUrl": "/index.html"
+  },"24": {
+    "doc": "Lectures",
+    "title": "Lectures",
+    "content": " ",
+    "url": "/lectures/",
+    "relUrl": "/lectures/"
+  },"25": {
+    "doc": "Modules",
+    "title": "Modules",
+    "content": " ",
+    "url": "/modules/",
+    "relUrl": "/modules/"
+  },"26": {
+    "doc": "Project 1",
+    "title": "CS6.401 Software Engineering",
+    "content": " ",
+    "url": "/projects/project-1#cs6401-software-engineering",
+    "relUrl": "/projects/project-1#cs6401-software-engineering"
+  },"27": {
+    "doc": "Project 1",
+    "title": "Spring 2026",
+    "content": " ",
+    "url": "/projects/project-1#spring-2026",
+    "relUrl": "/projects/project-1#spring-2026"
+  },"28": {
+    "doc": "Project 1",
+    "title": "Project - 1",
+    "content": ". Coming Soon! . ",
+    "url": "/projects/project-1#project---1",
+    "relUrl": "/projects/project-1#project---1"
+  },"29": {
+    "doc": "Project 1",
+    "title": "Project 1",
+    "content": " ",
+    "url": "/projects/project-1",
+    "relUrl": "/projects/project-1"
+  },"30": {
+    "doc": "Project 2",
+    "title": "CS6.401 Software Engineering",
+    "content": " ",
+    "url": "/projects/project-2#cs6401-software-engineering",
+    "relUrl": "/projects/project-2#cs6401-software-engineering"
+  },"31": {
+    "doc": "Project 2",
+    "title": "Spring 2026",
+    "content": " ",
+    "url": "/projects/project-2#spring-2026",
+    "relUrl": "/projects/project-2#spring-2026"
+  },"32": {
+    "doc": "Project 2",
+    "title": "Project 2",
+    "content": ". Coming Soon! . ",
+    "url": "/projects/project-2",
+    "relUrl": "/projects/project-2"
+  },"33": {
+    "doc": "Projects",
+    "title": "Projects",
+    "content": " ",
+    "url": "/projects/",
+    "relUrl": "/projects/"
+  },"34": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": "Karthik Vaidhyanathan . karthik.vaidhyanathan@iiit.ac.in . Schedule an appointment . ",
+    "url": "/staff/#instructor",
+    "relUrl": "/staff/#instructor"
+  },"35": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Adarsh Sharma . adarsh.sharma@students.iiit.ac.in . Software Engineering TA . Akhila Matathammal . akhila.matathammal@research.iiit.ac.in . Software Engineering TA . Anshi Gandhi . anshi.gandhi@students.iiit.ac.in . Software Engineering TA . Chandrasekar S . chandrasekar.s@research.iiit.ac.in . Software Engineering TA . Chirag Damija . chirag.damija@students.iiit.ac.in . Software Engineering TA . Divyansh Pandey . divyansh.pandey@students.iiit.ac.in . Software Engineering TA . Gargie Tambe . gargie.tambe@research.iiit.ac.in . Software Engineering TA . Kritin Madireddy . kritin.madireddy@students.iiit.ac.in . Software Engineering TA . Shaunak Biswas . shaunak.biswas@research.iiit.ac.in . Software Engineering TA . Tejas Cavale . tejas.cavalle@students.iiit.ac.in . Software Engineering TA . Vyakhya Gupta . vyakhya.gupta@students.iiit.ac.in . Software Engineering TA . ",
+    "url": "/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  },"36": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/staff/",
+    "relUrl": "/staff/"
+  },"37": {
+    "doc": "Tutorials",
+    "title": "Tutorials",
+    "content": " ",
+    "url": "/tutorials/",
+    "relUrl": "/tutorials/"
+  },"38": {
+    "doc": "Week 1 - Introduction and Modeling",
+    "title": "Course Overview",
+    "content": "Introduction and Course Overview - Download . ",
+    "url": "/lectures/week-1#course-overview",
+    "relUrl": "/lectures/week-1#course-overview"
+  },"39": {
+    "doc": "Week 1 - Introduction and Modeling",
+    "title": "Additional Reading",
+    "content": ". | About Boeing - https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer . | On Software Licensing - https://cacm.acm.org/magazines/2014/7/176209-licensing-professional-software-engineers/abstract . | Article on Therac 25 - https://www.computer.org/csdl/magazine/co/2017/11/mco2017110008/13rRUxAStVR . | Green Software Foundation - https://greensoftware.foundation . | Article from BBC on IT failures in NHS - https://www.bbc.com/news/health-67503126 . | . AI-assisted tools and benchmarks . | Github Co-Pilot - https://github.com/features/copilot | Cursor AI code editor - https://www.cursor.com | Windsurf Editor - https://codeium.com/windsurf | SWE Bench - https://www.swebench.com | AutoCodeRover - https://www.autocoderover.net | . Multi-agent Framework . | Crew AI - https://www.crewai.com | Autogen - https://microsoft.github.io/autogen/0.2/ | Langraph - https://www.langchain.com/langgraph | . ",
+    "url": "/lectures/week-1#additional-reading",
+    "relUrl": "/lectures/week-1#additional-reading"
+  },"40": {
+    "doc": "Week 1 - Introduction and Modeling",
+    "title": "Week 1 - Introduction and Modeling",
+    "content": " ",
+    "url": "/lectures/week-1",
+    "relUrl": "/lectures/week-1"
+  }
+}
