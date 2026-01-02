@@ -2430,7 +2430,7 @@ a.skip-to-main:focus, a.skip-to-main:active { color: #2c84fa; background-color: 
 .schedule .schedule-event.office-hours { background-color: #2c84fa; }
 
 .staffer { display: flex; margin: 1rem; }
-.staffer .staffer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }
+.staffer .staffer-image { border-radius: 50%; height: 100px; width: 100px; object-fit: cover; margin-right: 1rem; }
 .staffer p, .staffer .staffer-name { margin: 0.25rem !important; }
 
 code { font-size: 14px; padding: 0.2em 0.4em; border: none; }

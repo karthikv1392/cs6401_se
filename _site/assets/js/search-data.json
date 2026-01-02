@@ -25,19 +25,19 @@
   },"4": {
     "doc": "Calendar",
     "title": "Introduction to Modeling and Refactoring",
-    "content": "Jan 2 Introduction and Course Overview Jan 6 Introduction to Software Modeling Jan 9 Modeling with UML: Modeling the Structure Jan 13 Tutorial 1: Basic Java and UML Project 1 Release Jan 16 Modeling with UML: Modeling the Behaviour Jan 20 Refactoring: Gentle Introduction Jan 23 Design Smells and Refactoring ",
+    "content": "Jan 2 Introduction and Course Overview Jan 6 Introduction to Software Modeling Jan 9 Modeling with UML: Modeling the Structure Jan 13 Tutorial 1: Basic Java and UML Project 1 Release Modeling with UML: Modeling the Behaviour Jan 16 Refactoring: Gentle Introduction Jan 20 Design Smells and Refactoring ",
     "url": "/calendar/#introduction-to-modeling-and-refactoring",
     "relUrl": "/calendar/#introduction-to-modeling-and-refactoring"
   },"5": {
     "doc": "Calendar",
     "title": "Refactoring and Design Patterns",
-    "content": "Feb 3 Introduction to Code Smells Feb 6 Measuring Code Complexity Feb 10 Code Complexity Metrics Feb 17 Introduction to Software Design Principles Project 1 Deadline Feb 20 Project 2 Release Feb 20 Introduction to Design Patterns: Set 1 Feb 24 Design Patterns: Set 2 Feb 24 Project 1 Presentations Mar 4 Design Patterns: Set 3 Mar 7 Thoughs on Design Patterns Mar 11 Guest Lecture ",
+    "content": "Jan 23 Introduction to Code Smells Feb 3 Measuring Code Complexity Feb 6 Code Complexity Metrics Feb 10 Introduction to Software Design Principles Project 1 Deadline Feb 17 Introduction to Design Patterns: Set 1 Project 2 Release Feb 20 Design Patterns: Set 2 Feb 24 Design Patterns: Set 3 Mar 4 Project 1 Presentations Mar 6 Thoughs on Design Patterns Mar 10 Guest Lecture ",
     "url": "/calendar/#refactoring-and-design-patterns",
     "relUrl": "/calendar/#refactoring-and-design-patterns"
   },"6": {
     "doc": "Calendar",
     "title": "Software Architecture",
-    "content": "Mar 11 Project 3 Proposal Deadline Mar 15 Project 2 Deadline Mar 17 Project 3 Release Mar 18 Introduction to Software Architecture Mar 21 Views and Viewpoints Mar 25 Guest Lecture Mar 28 ADLs and Architecture Analysis Apr 1 Software Architecture Design Decisions Apr 8 Playing the DecidArch Game Apr 11 Software Architecture Patterns Apr 15 Deeper dive into Microservices Apr 17 Publish Subscribe and Event-Driven Project 3 Deadline Apr 22 Final thoughts and Conclusions ",
+    "content": "Mar 13 Introduction to Software Architecture Project 3 Proposal Deadline Mar 15 Project 2 Deadline Mar 17 Views and Viewpoints Project 3 Release Mar 24 Guest Lecture Mar 27 ADLs and Architecture Analysis Apr 7 Software Architecture Design Decisions Apr 10 Playing the DecidArch Game Apr 14 Software Architecture Patterns Apr 17 Deeper dive into Microservices Apr 21 Publish Subscribe and Event-Driven Project 3 Deadline Apr 24 Final thoughts and Conclusions ",
     "url": "/calendar/#software-architecture",
     "relUrl": "/calendar/#software-architecture"
   },"7": {

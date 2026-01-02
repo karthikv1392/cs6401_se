@@ -5,6 +5,8 @@
   .staffer-image {
     border-radius: 50%;
     height: 100px;
+    width: 100px;
+    object-fit: cover;
     margin-right: $sp-4;
   }
 

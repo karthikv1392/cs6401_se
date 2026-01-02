@@ -13,14 +13,13 @@ Jan 9
 
 Jan 13
 : **Tutorial 1: Basic Java and UML**{: .label .label-green } **Project 1 Release**{: .label .label-blue }
-
-Jan 16
 : [Modeling with UML: Modeling the Behaviour](#)
 
-Jan 20
+Jan 16
 : [Refactoring: Gentle Introduction](#)
 
-Jan 23
+Jan 20
 : [Design Smells and Refactoring](#)
+
 
 
