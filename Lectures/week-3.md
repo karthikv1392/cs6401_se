@@ -10,6 +10,10 @@ nav_order: 3
 
 Refactoring: An Overview - [Download](https://karthikv1392.github.io/cs6401_se/slides/L05_Intro_to_Refactoring.pdf)
 
+## Design Smells
+
+Design Smells - [Download](https://karthikv1392.github.io/cs6401_se/slides/L06_Design_Smells.pdf)
+
 
 
 ## Additional Reading materials
