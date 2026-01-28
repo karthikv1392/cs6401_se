@@ -7,3 +7,5 @@ photo: tejas.jpg
 ---
 
 Software Engineering TA
+
+Office Hours - Every Wednesday at 07:00 PM to 08:00 PM in SERC Lab, T-hub building 5th floor
