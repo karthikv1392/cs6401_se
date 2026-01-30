@@ -1,7 +1,7 @@
 ---
-name: Chirag Damija
+name: Chirag Dhamija
 role: Teaching Assistant
-email: chirag.damija@students.iiit.ac.in
+email: chirag.dhamija@students.iiit.ac.in
 website:
 photo: chirag.jpg
 ---
