@@ -8,4 +8,4 @@ nav_order: 5
 
 ## Design Principles and Patterns
 
-Introduction to Code Smells and Code Metrics - [Download](https://karthikv1392.github.io/cs6401_se/slides/L9_Design_Principles_Patterns.pdf)
+Design Principles and Patterns - [Download](https://karthikv1392.github.io/cs6401_se/slides/L9_Design_Principles_Patterns.pdf)
