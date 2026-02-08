@@ -13,7 +13,7 @@ Introduction to Code Smells and Code Metrics - [Download](https://karthikv1392.g
 
 ## Design Principles
 
-Introduction to Design Principles - [Download]()
+Introduction to Design Principles - [Download](https://karthikv1392.github.io/cs6401_se/slides/L08_Design_Principles.pdf)
 
 
 ## Additional Reading materials

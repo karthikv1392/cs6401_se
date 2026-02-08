@@ -38,6 +38,8 @@ Apache Roller is a large system. To manage its complexity, focus on these three 
 - **Assumptions:** Explicitly state any simplifications you made while modeling.
 - **LLM vs Manual Analysis:** Perform the above steps once without LLM assistance and once with LLM assistance on a small, clearly defined part of any one subsystem. Provide a brief comparative analysis highlighting differences in completeness, correctness, and effort.
 
+> Note: You need to submit the PlantUML/StarUML diagram along with the code.
+
 ## Task 2: Smells and Metrics Analysis (30 Marks)
 
 ### Task 2A: Design Smells
@@ -180,7 +182,7 @@ Accurately report the contribution of each team member at the end of the report.
 
 > Note: Bonus can be submitted till the hard deadline without any penalty. Late days are not applicable for bonus components
 
-To encourage consistency, at least 50% of your total commits must be made before the last week of the soft deadline, i.e., before 3rd February, 2026. Repositories showing most of the work being done close to the deadline may be penalized.
+To encourage consistency, at least 50% of your total commits must be made before the last week of the soft deadline (10th February), i.e., 50% commits should be made before 3rd February 2026, 11:59 pm. Repositories showing most of the work being done close to the deadline may be penalized.
 
 The course policy mentioned on this website will be followed for late submissions and associated penalties/late days.
 

@@ -7,3 +7,5 @@ photo: divyansh.jpg
 ---
 
 Software Engineering TA
+
+Office Hours - Every Thursday at 03:00 PM to 04:00 PM in SERC Lab, T-hub building 5th floor
