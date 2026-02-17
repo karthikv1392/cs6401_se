@@ -9,3 +9,9 @@ nav_order: 5
 ## Design Principles and Patterns
 
 Design Principles and Patterns - [Download](https://karthikv1392.github.io/cs6401_se/slides/L9_Design_Principles_Patterns.pdf)
+
+## Design Pattern - Observer and Factory
+
+Observer and Factory Patterns - [Download](https://karthikv1392.github.io/cs6401_se/slides/L10_Design_Patterns_Set1.pdf)
+
+
