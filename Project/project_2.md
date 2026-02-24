@@ -43,7 +43,7 @@ You are going to upgrade the Roller. The interactions will be better, more struc
 
 Let users visit blog pages and "star" (favourite) them. From their home page, they should be able to look at all their starred webpages and visit those webpages. These webpages must be sorted in order of when the most recent blogpost was made (recently updated webpages must be at the top of this list), and you must also display the date (and time) of when the webpage was last posted to. Note that we only require you to consider the recency of blogposts themselves, and NOT the comments.
 
-Additionally, they should also be able to "star" blogposts.
+Additionally, they should also be able to "star" blogposts. Add a hyperlink in the home page somewhere which lets the users navigate to a page that contains all their starred blogposts. Use pagination while displaying them; don't just display them all in a single page. The ordering of these blogposts is up to you.
 
 ### **1B Trending Blogs (5 Marks)**
 
