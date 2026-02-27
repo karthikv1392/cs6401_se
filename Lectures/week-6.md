@@ -10,4 +10,4 @@ nav_order: 6
 
 Adapter, Builder and Strategy - [Download](https://karthikv1392.github.io/cs6401_se/slides/L11_Design_Patterns_Set2.pdf)
 
-
+Command and Chain of Responsibility - [Download](https://karthikv1392.github.io/cs6401_se/slides/L12_Design_Patterns_Set3.pdf)
