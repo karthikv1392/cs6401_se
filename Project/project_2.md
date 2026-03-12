@@ -93,6 +93,8 @@ Remember how you open up a page in some random language and Chrome (or any other
 
 What *isn’t* open-ended is that you must support **at least five languages**, and any language you support should work both as a source and as a target.
 
+For the purposes of this task (and the next), you are only required to support translation for **weblogs** in order to receive the full 20 marks allocated for Task 5A. Implementing translation for other webpage types is optional and will be considered under a separate bonus component described below.
+
 ### 5B. Caching :D (15 Marks)
 
 *It doesn’t make sense to bombard Sarvam AI with 100s of API calls for stuff you have already translated. A real software system must allow scaling user requests for a feature while not exhausting their API credits!*
@@ -143,7 +145,7 @@ The design should allow the system to **easily switch between multiple insight-g
 
 ---
 
-## **Bonus: Weblog Q&A Chatbot (5 Marks)**
+## **Bonus 1: Weblog Q&A Chatbot (5 Marks)**
 
 *Sometimes users don’t want to browse dozens of posts — they just want answers. Wouldn’t it be nice if Roller could answer questions like “What has this blog said about data privacy?” or “When was topic X last discussed?”*
 
@@ -162,6 +164,22 @@ In your project report, you must compare the approaches you implemented and disc
 
 ---
 
+## **Bonus 2: Full Webpage Translation (3 Marks)**
+
+*Some of you may have already implemented translation across all webpages, and we don’t want that effort to go unnoticed :D*
+
+If your implementation supports **translation for all webpage types in Roller (not just weblogs)**, you will be eligible for an **additional 3 bonus marks** (in addition to the existing 5 marks bonus component). Please note that for this bonus, your implementation must also integrate with Task 5B ,i.e., caching must be implemented on top of the full webpage translation system.
+
+To receive these bonus marks:
+
+- Your solution must be **clean, maintainable, and extensible**.
+- If **new webpage types are introduced in Roller in the future**, your implementation should allow them to support translation **with minimal changes to existing code**.
+- During evaluation, you must **present and justify your design**, and **demonstrate that the system works**.
+
+*Note: This bonus will only recoup marks lost in this project. It will not add to your course total, i.e. your project 2 marks will be min(100, project marks + bonus).*
+
+---
+
 ## **Submission Instructions**
 
 - The submission for this phase will again be through the GitHub classroom. **The codebase will be automatically downloaded at the deadline**, so ensure that everything is up in time. No exceptions will be granted.
@@ -173,11 +191,11 @@ In your project report, you must compare the approaches you implemented and disc
 
 ## Deadlines
 
-Soft deadline - 15th March, 2025 11:59PM IST
+Soft deadline - 15th March, 2026 11:59PM IST
 
-Hard deadline - 22nd March, 2025 11:59PM IST
+Hard deadline - 22nd March, 2026 11:59PM IST
 
-***Note: Bonus can be submitted till the hard deadline without any penalty. Late days are not applicable for bonus components***
+***Note: Both the bonus components can be submitted till the hard deadline without any penalty. Late days are not applicable for bonus components***
 
 To encourage consistency, at least 50% of your total commits must be made before the last week of the soft deadline (15th March), i.e., 50% commits should be made before 8th March 2026, 11:59 pm. Repositories showing most of the work being done close to the deadline may be penalized.
 
