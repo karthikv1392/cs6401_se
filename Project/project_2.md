@@ -168,7 +168,7 @@ In your project report, you must compare the approaches you implemented and disc
 
 *Some of you may have already implemented translation across all webpages, and we don’t want that effort to go unnoticed :D*
 
-If your implementation supports **translation for all webpage types in Roller (not just weblogs)**, you will be eligible for an **additional 3 bonus marks** (in addition to the existing 5 marks bonus component). Please note that for this bonus, your implementation must also integrate with Task 5B ,i.e., caching must be implemented on top of the full webpage translation system.
+If your implementation supports **translation for all webpage types in Roller (not just weblogs)**, you will be eligible for an **additional 3 bonus marks** (in addition to the existing 5 marks bonus component). Please note that for this bonus, your implementation must also integrate with Task 5B, i.e., caching must be implemented on top of the full webpage translation system.
 
 To receive these bonus marks:
 
@@ -195,7 +195,7 @@ Soft deadline - 15th March, 2026 11:59PM IST
 
 Hard deadline - 22nd March, 2026 11:59PM IST
 
-***Note: Both the bonus components can be submitted till the hard deadline without any penalty. Late days are not applicable for bonus components***
+***Note: Both the bonus components can be submitted till the hard deadline without any penalty. Late days are not applicable for bonus components.***
 
 To encourage consistency, at least 50% of your total commits must be made before the last week of the soft deadline (15th March), i.e., 50% commits should be made before 8th March 2026, 11:59 pm. Repositories showing most of the work being done close to the deadline may be penalized.
 
