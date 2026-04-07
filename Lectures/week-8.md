@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 7 - Architectural Tactics and Patterns
+title: Week 8 - Architectural Tactics and Patterns
 permalink: /lectures/week-8
 parent: Lectures
 nav_order: 8
