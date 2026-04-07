@@ -10,6 +10,12 @@ nav_order: 8
 
 Software Architecture Tactics - [Download](https://karthikv1392.github.io/cs6401_se/slides/L15_Architectural_Tactics.pdf)
 
+## Architectural Patterns
+
+
+Software Architecture Patterns - [Download](https://karthikv1392.github.io/cs6401_se/slides/L16_Architecture_Patterns.pdf)
+
+
 
 ## Additional Materials/References
 
