@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Week 9 - Microservices and EDA
-permalink: /lectures/week-8
+permalink: /lectures/week-9
 parent: Lectures
-nav_order: 8
+nav_order: 9
 ---
 
 ## Microservices
