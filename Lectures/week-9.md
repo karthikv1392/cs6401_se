@@ -10,6 +10,10 @@ nav_order: 8
 
 Introduction to Microservices - [Download](https://karthikv1392.github.io/cs6401_se/slides/L17_Microservices_EDA.pdf)
 
+## Event Driven Architecture and Conclusion
+
+EDA and Concluding Thoughts - [Download](https://karthikv1392.github.io/cs6401_se/slides/L18_Concluding_Thoughts.pdf)
+
 
 ## Additional materials/References on Microservices
 
